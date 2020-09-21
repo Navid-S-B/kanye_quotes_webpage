@@ -1,1 +1,2 @@
-# kanye_quotes_webpage
+# Random Kanye Quotes Webpage
+Add information later.
