@@ -29,9 +29,5 @@ def lambda_handler(event, context):
 
     return {
         'statusCode': success_fail,
-        'headers': {
-            'Access-Control-Allow-Origin': '*',
-            'Access-Control-Allow-Methods': 'GET'
-        },
         'body': json.dumps(get_quote())
     }
