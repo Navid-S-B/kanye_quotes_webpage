@@ -22,4 +22,9 @@ I do not condone nor support every Kanye comment. I am just a fan of
 his music back in the 2000s and early 2010s :).
 
 ## How does retrieving quotes work?
-The 
+The quote retrieval system, utilises a HTTP REST API using AWS, connecting it with a AWS Lambda function,
+which looks over a text file full of Kanye quotes, and then sends one to the webpage.
+
+## Future Improvements/Features
+As this is a continous project, I will add more pages for users to add quotes, see embedded videos and
+utilise a DyanamoDB or S3 bucket for better quote updating, retrieval and maitenance. 
