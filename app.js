@@ -4,7 +4,8 @@ Date: 22/09/2020
 
 This program is used to add an API get request call to the "Get Yeezin'" button.
 
-However for future renditions of this website 
+However for future renditions of this website extra button functionality and box animations
+will be likely encoded in here.
 */
 
 // Script button 1 RESTApi call
