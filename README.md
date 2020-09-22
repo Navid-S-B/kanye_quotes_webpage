@@ -15,7 +15,7 @@ an API to send Kanye quotes.
 This is still an on going project, as I have plans to expand the website to almost cover all of the basics
 of frontend development!
 
-Check it out here https://navid-s-b.github.io/kanye_quotes_webpage/.
+Check it out here at https://navid-s-b.github.io/kanye_quotes_webpage/.
 
 **TO NOTE:**<br />
 I do not condone nor support everyone of Kanye's comments. I am just a fan of
