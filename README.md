@@ -4,8 +4,8 @@ and start learning the basics of frontend and backend development utilising html
 js and python!
 
 The webpage essentially sends an API get request to gather kanye quotes using an AWS Lambda function
-through an HTTP API. With the"'Get Preachin'" button, it creates a tab to a Kanye
-YouTube pagelist.
+through an HTTP API through the **"Get Yeezin'"**. With the **"'Get Preachin'"** button, it creates a tab to a Kanye
+YouTube playlist.
 
 This project has taught me so far on how basic HTML webpages can be structured, how css is used
 to style the page (position of images, created text boxes, animinating buttons etc.), how js can be integrated to
