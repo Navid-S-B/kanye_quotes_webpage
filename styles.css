@@ -36,7 +36,7 @@ header > h2 {
 }
 
 .center-box {
-  position: fixed;
+  position: relative;
   height: 200px;
   width: 600px;
   top: 50%;
