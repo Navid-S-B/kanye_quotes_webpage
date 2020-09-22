@@ -8,7 +8,7 @@ def get_quote():
     
     # Send error when file cannot be opened.
     try:
-        f = open("kanye_quotes.tt", "r")
+        f = open("kanye_quotes.txt", "r")
         quotes = f.readlines()
         quote_to_send = quotes[randint(0,len(quotes))]
         quote_to_send = quote_to_send.rstrip()
@@ -22,6 +22,7 @@ def get_quote():
 def lambda_handler(event, context):
     
     send_quote = get_quote()
+    success_fail = 200
 
     # Add indicator to trigger error handling on webpage.
     if (send_quote == "Internal Server Error"):
@@ -29,5 +30,5 @@ def lambda_handler(event, context):
 
     return {
         'statusCode': success_fail,
-        'body': json.dumps(get_quote())
+        'body': json.dumps(send_quote)
     }
