@@ -21,4 +21,5 @@ Check it out here at https://navid-s-b.github.io/kanye_quotes_webpage/.
 I do not condone nor support everyone of Kanye's comments. I am just a fan of
 his music back in the 2000s and early 2010s :).
 
-## How does it work?
+## How does retrieving quotes work?
+The 
