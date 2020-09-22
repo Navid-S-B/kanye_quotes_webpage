@@ -1,6 +1,6 @@
-
+// Import Asap font from Google
 @import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;700&display=swap');
-
+ 
 * {
   margin: 0;
   padding: 0;
@@ -12,6 +12,7 @@ body {
   background-size: cover;
 }
 
+// Header tecxt editing
 header {
   position: relative;
   background: white;
@@ -35,6 +36,7 @@ header > h2 {
   font-family: Asap, sans-serif;
 }
 
+// Adjusting center box position and text
 .center-box {
   position: relative;
   height: 200px;
@@ -57,7 +59,8 @@ header > h2 {
   font-size: 25px;
 }
 
-.kanyes {
+// Adjusting kanye gifs and positions
+.kanye-gifs {
   position: relative;
   text-align: center;
   top: 600px;
@@ -69,6 +72,7 @@ header > h2 {
   display: inline-block;
 }
 
+// Animating buttons and positioning them
 .button {
   display: inline-block;
   padding: 10px 20px;
