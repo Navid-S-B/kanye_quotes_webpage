@@ -17,7 +17,7 @@ of frontend development!
 
 Check it out here https://navid-s-b.github.io/kanye_quotes_webpage/.
 
-<b>TO NOTE:<\b>
+<b>TO NOTE:<b><br />
 I do not condone nor support everyone of Kanye's comments. I am just a fan of
 his music back in the 2000s and early 2010s :).
 
