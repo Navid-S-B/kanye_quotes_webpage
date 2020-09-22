@@ -36,10 +36,10 @@ header > h2 {
 }
 
 .center-box {
-  position: fixed;
+  position: relative;
   height: 200px;
   width: 600px;
-  top: 50%;
+  top: 175px;
   left: 50%;
   margin-top: -100px;
   margin-left: -300px;
@@ -97,6 +97,6 @@ header > h2 {
 .buttons {
   text-align: center;
   position: relative;
-  top: 250px;
+  top: 135px;
 }
 
